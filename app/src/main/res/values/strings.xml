@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EmployeeApp</string>
+    <string name="first_name_label">First Name</string>
+    <string name="last_name_label">Last Name</string>
+    <string name="employee_id_label">Employee ID</string>
+    <string name="email_label">Email</string>
+    <string name="name_error_message">Must contain only letters, spaces, \'.\', and \'-\'</string>
+    <string name="employee_id_error_message">Must be a 7 digit number, beginning with a 0</string>
+    <string name="email_error_message">Must be a valid email address</string>
+</resources>
